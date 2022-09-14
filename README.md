@@ -1,4 +1,4 @@
-# Protect my balls
+# Protect my ball
 
 ![image](./Documents/result.gif)
 
